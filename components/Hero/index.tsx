@@ -40,13 +40,19 @@ const Hero = () => {
                 {/* <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
                 DASCII is a Digital Marketing and Development Agency that provides essential services to businesses looking to grow and succeed. From creative design and content creation, to social media marketing, website development and improvement, we provide a range of services.
                 </p> */}
-                <div className="mt-8 flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4">
+                <div className="mt-8 flex items-center justify-center sm:space-x-4">
                   <Link
-                    href="/contact"
-                    className="rounded-full text-[#6266F1] font-extrabold bg-white hover:bg-[#6266F1] hover:text-white py-4 px-8 text-base font-semibold text-white duration-300 ease-in-out mb-10 opacity-90 hover:opacity-100"
+                      href="/contact" 
+                      className="rounded-full text-[#6266F1] font-extrabold bg-white hover:bg-[#6266F1] hover:text-white py-4 px-8 text-base font-semibold text-white duration-300 ease-in-out mb-10 sm:mb-0 opacity-90 hover:opacity-100"
                   >
                     CONTACT NOW
                   </Link>
+                  <Link 
+                    href="https://shop.ecowitty.in/" 
+                    className="rounded-full text-[#6266F1] font-extrabold bg-white hover:bg-[#6266F1] hover:text-white py-4 px-8 text-base font-semibold text-white duration-300 ease-in-out mb-10 sm:mb-0 opacity-90 hover:opacity-100"
+                >
+                    SHOP NOW
+                </Link>
                 </div>
               </div>
             </div>
