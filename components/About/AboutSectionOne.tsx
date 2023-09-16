@@ -34,9 +34,9 @@ const AboutSectionOne = () => {
             <br/><br/>
             By collaborating with Ecowitty, businesses have an opportunity to align their values with their actions. By incorporating our sustainable products into their operations, companies can demonstrate their commitment to environmental responsibility. Engaging with our plantable pens, pencils, and upcoming paper products not only helps reduce their carbon footprint but also serves as a tangible representation of their dedication to sustainability.
             <br/><br/>
-            Additionally, our products offer individuals and organizations a unique way to make a positive impact. By utilizing Ecowitty's plantable products, you can contribute to reforestation efforts and foster biodiversity. As plants grow from the embedded seeds, they purify the air, provide habitats for wildlife, and restore ecosystems. Together, we can create a greener future and leave a lasting legacy of sustainable practices.
+            Additionally, our products offer individuals and organizations a unique way to make a positive impact. By utilizing Ecowitty&apos;s plantable products, you can contribute to reforestation efforts and foster biodiversity. As plants grow from the embedded seeds, they purify the air, provide habitats for wildlife, and restore ecosystems. Together, we can create a greener future and leave a lasting legacy of sustainable practices.
             <br/><br/>
-            Join us at Ecowitty as we revolutionize the way we write, plan, and document our lives, all while making a tangible difference for our planet. Together, let's embrace sustainability and inspire others to do the same.
+            Join us at Ecowitty as we revolutionize the way we write, plan, and document our lives, all while making a tangible difference for our planet. Together, let&apos;s embrace sustainability and inspire others to do the same.
             </p>
           </div>
         </div>
